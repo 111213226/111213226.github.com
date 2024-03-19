@@ -1,0 +1,23 @@
+@charset "utf-8";
+.title1 {
+    color: #3F8FC1;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 15px 16px;
+}
+.main1 img {
+}
+.title1 img {
+    -webkit-box-shadow: 15px 15px 19px #37473D;
+    box-shadow: 15px 15px 19px #37473D;
+}
+.main2 {
+}
+
+
+.main1 {
+    color: #B056B0;
+    text-decoration: underline;
+    text-align: right;
+    font-size: 20px;
+}
